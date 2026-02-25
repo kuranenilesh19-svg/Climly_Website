@@ -1473,4 +1473,3 @@ footer::after{content:'';display:block;height:2px;background:var(--grad);margin-
   .ft-grid{grid-template-columns:1fr;gap:24px;}
   .share-bar{flex-direction:column;align-items:flex-start;gap:14px;}
 }
-</style>
